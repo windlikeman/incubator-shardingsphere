@@ -1,3 +1,4 @@
+# 本人小白，打算研究一下这个源码，感觉以后会很有用，大侠多指教
 # [ShardingSphere - Distributed Database Middleware Ecosphere](https://shardingsphere.apache.org/)
 
 Official website: https://shardingsphere.apache.org/
